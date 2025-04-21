@@ -95,7 +95,7 @@
 
         .start-button {
             background-color: #007BFF;
-            color: green;
+            color: white;
         }
 
         .start-button:hover {
